@@ -1,0 +1,11 @@
+EmpId,EmpName,salary,deptId
+1,"John Doe",50000,101
+2,"Jane Smith",60000,102
+3,"Alice Johnson",,103
+4,"Bob Brown",45000,
+5,,70000,104
+6,"Charlie Davis",-30000,105
+7,"Eve Adams",55000,999
+8,"Frank Miller",65000,106
+9,"Grace Lee",72000,107
+10,"Henry Wilson",48000,108
